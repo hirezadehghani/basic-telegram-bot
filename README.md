@@ -1,2 +1,2 @@
 # basic-telegram-bot
-My exercise and some handy with telegram bots API 
+Some handy exercise with telegram bots API 
